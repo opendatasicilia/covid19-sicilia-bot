@@ -21,11 +21,18 @@ Per accedere al BOT cliccare [QUI](https://t.me/Covid_19_Sicilia_Bot)
     * Ficarazzi (PA) - [dati](https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-82035.csv)
     * Santa Flavia (PA) - [dati](https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-82067.csv)
 
+
+## License
+[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="100"/>](https://creativecommons.org/licenses/by/4.0/deed.it)
+
+
 ## Credits
 Ideato da [Giovanni Pirrotta](mailto:giovanni.pirrotta@gmail.com)
 
 Logo by [Dennis Angemi](https://www.twitter.com/dennisangemi)
 
 Se questo lavoro ti è piaciuto ci aiuti a farlo conoscere con un [tweet](http://twitter.com/share?url=https://t.me/Covid_19_Sicilia_Bot&text=Covid19+Sicilia+Bot:+lo+strumento+per+monitorare+l'andamento+COVID19+nelle+città+siciliane+/via+@opendatasicilia+@gpirrotta)? Grazie
+
+
 
 
